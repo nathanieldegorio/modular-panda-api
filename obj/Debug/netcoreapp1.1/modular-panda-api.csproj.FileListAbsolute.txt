@@ -1,0 +1,8 @@
+/Users/Gray_01/Projects/modular-panda-api/bin/Debug/netcoreapp1.1/modular-panda-api.deps.json
+/Users/Gray_01/Projects/modular-panda-api/bin/Debug/netcoreapp1.1/modular-panda-api.runtimeconfig.json
+/Users/Gray_01/Projects/modular-panda-api/bin/Debug/netcoreapp1.1/modular-panda-api.runtimeconfig.dev.json
+/Users/Gray_01/Projects/modular-panda-api/bin/Debug/netcoreapp1.1/modular-panda-api.dll
+/Users/Gray_01/Projects/modular-panda-api/bin/Debug/netcoreapp1.1/modular-panda-api.pdb
+/Users/Gray_01/Projects/modular-panda-api/obj/Debug/netcoreapp1.1/modular-panda-api.AssemblyInfo.cs
+/Users/Gray_01/Projects/modular-panda-api/obj/Debug/netcoreapp1.1/modular-panda-api.dll
+/Users/Gray_01/Projects/modular-panda-api/obj/Debug/netcoreapp1.1/modular-panda-api.pdb
